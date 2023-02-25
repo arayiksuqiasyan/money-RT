@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/money-RT/static/css/main.71741bb0.chunk.css",
-    "main.js": "/money-RT/static/js/main.185fef89.chunk.js",
-    "main.js.map": "/money-RT/static/js/main.185fef89.chunk.js.map",
-    "runtime-main.js": "/money-RT/static/js/runtime-main.076874fa.js",
-    "runtime-main.js.map": "/money-RT/static/js/runtime-main.076874fa.js.map",
-    "static/js/2.26f0ccf5.chunk.js": "/money-RT/static/js/2.26f0ccf5.chunk.js",
-    "static/js/2.26f0ccf5.chunk.js.map": "/money-RT/static/js/2.26f0ccf5.chunk.js.map",
-    "static/js/3.bb0bc7a1.chunk.js": "/money-RT/static/js/3.bb0bc7a1.chunk.js",
-    "static/js/3.bb0bc7a1.chunk.js.map": "/money-RT/static/js/3.bb0bc7a1.chunk.js.map",
+    "main.css": "/money-RT/static/css/main.0f09b0b2.chunk.css",
+    "main.js": "/money-RT/static/js/main.bfbd005a.chunk.js",
+    "main.js.map": "/money-RT/static/js/main.bfbd005a.chunk.js.map",
+    "runtime-main.js": "/money-RT/static/js/runtime-main.63847ebe.js",
+    "runtime-main.js.map": "/money-RT/static/js/runtime-main.63847ebe.js.map",
+    "static/js/2.f6f752ec.chunk.js": "/money-RT/static/js/2.f6f752ec.chunk.js",
+    "static/js/2.f6f752ec.chunk.js.map": "/money-RT/static/js/2.f6f752ec.chunk.js.map",
+    "static/js/3.428c4fc2.chunk.js": "/money-RT/static/js/3.428c4fc2.chunk.js",
+    "static/js/3.428c4fc2.chunk.js.map": "/money-RT/static/js/3.428c4fc2.chunk.js.map",
     "index.html": "/money-RT/index.html",
-    "static/css/main.71741bb0.chunk.css.map": "/money-RT/static/css/main.71741bb0.chunk.css.map",
-    "static/js/2.26f0ccf5.chunk.js.LICENSE.txt": "/money-RT/static/js/2.26f0ccf5.chunk.js.LICENSE.txt",
+    "static/css/main.0f09b0b2.chunk.css.map": "/money-RT/static/css/main.0f09b0b2.chunk.css.map",
+    "static/js/2.f6f752ec.chunk.js.LICENSE.txt": "/money-RT/static/js/2.f6f752ec.chunk.js.LICENSE.txt",
     "static/media/Frame 9.fa32f87b.png": "/money-RT/static/media/Frame 9.fa32f87b.png",
     "static/media/Group 11.d177945f.png": "/money-RT/static/media/Group 11.d177945f.png",
     "static/media/contact.47d992bf.png": "/money-RT/static/media/contact.47d992bf.png",
@@ -21,9 +21,9 @@
     "static/media/testimonials.1cb9bb73.png": "/money-RT/static/media/testimonials.1cb9bb73.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.076874fa.js",
-    "static/js/2.26f0ccf5.chunk.js",
-    "static/css/main.71741bb0.chunk.css",
-    "static/js/main.185fef89.chunk.js"
+    "static/js/runtime-main.63847ebe.js",
+    "static/js/2.f6f752ec.chunk.js",
+    "static/css/main.0f09b0b2.chunk.css",
+    "static/js/main.bfbd005a.chunk.js"
   ]
 }
