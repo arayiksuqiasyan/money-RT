@@ -1,13 +1,13 @@
 import React from "react";
-import testimonials from "../img/testimonials.png";
-import onlinepayment from "../img/onlinepayment.png";
+import testimonials from "../../img/testimonials.png";
+import onlinepayment from "../../img/onlinepayment.png";
 
-function Testimonials() {
+const Testimonials = () => {
   return (
     <div className="testimonials">
       <div className="testimonials1">
         <div>
-          <img src={testimonials} />
+          <img src={testimonials} alt={'#'} />
         </div>
         <div>
           <h1>Receive & Transfer Your Freelance Money</h1>
@@ -28,7 +28,7 @@ function Testimonials() {
           </span>
         </div>
         <div>
-          <img src={onlinepayment} />
+          <img src={onlinepayment} alt={'#'} />
         </div>
       </div>
     </div>

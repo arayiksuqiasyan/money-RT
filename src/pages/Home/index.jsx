@@ -1,19 +1,17 @@
 import React from "react";
-import cardFoto from "../img/Frame 9.png";
-import cardFoto2 from "../img/Group 11.png";
+import cardFoto from "../../img/Frame 9.png";
+import cardFoto2 from "../../img/Group 11.png";
 
-import icon1 from "../img/icon1.png";
-import icon2 from "../img/icon2.png";
-import icon3 from "../img/icon3.png";
+import icon1 from "../../img/icon1.png";
+import icon2 from "../../img/icon2.png";
+import icon3 from "../../img/icon3.png";
 
-import card1 from "../img/card1.png";
-import card2 from "../img/card2.png";
-import card3 from "../img/card3.png";
-import card4 from "../img/card4.png";
-import { useHistory } from "react-router-dom";
+import card1 from "../../img/card1.png";
+import card2 from "../../img/card2.png";
+import card3 from "../../img/card3.png";
+import card4 from "../../img/card4.png";
 
-function Home() {
-  const history = useHistory();
+const Home = () => {
 
   return (
     <div className="home-container">
